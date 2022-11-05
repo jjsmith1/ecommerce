@@ -1,0 +1,5 @@
+package com.TTS.ecommerce.Configuration;
+
+public class SecurityConfiguration {
+
+}

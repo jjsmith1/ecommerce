@@ -1,0 +1,11 @@
+package com.TTS.ecommerce.Configuration;
+
+
+@Configuration
+public class WebMvcConfiguration {
+
+	@Bean
+	public BCryptPasswordEncoder passwordEncoder() {
+		return new BCryptPasswordEncoder();
+	}
+}

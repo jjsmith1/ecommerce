@@ -1,0 +1,5 @@
+package com.TTS.ecommerce.controllers;
+
+public class AuthenticationController {
+
+}

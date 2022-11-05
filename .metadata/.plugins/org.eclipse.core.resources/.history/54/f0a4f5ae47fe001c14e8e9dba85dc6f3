@@ -1,0 +1,5 @@
+package com.TTS.ecommerce.Repository;
+
+public interface ProductRepository {
+
+}
